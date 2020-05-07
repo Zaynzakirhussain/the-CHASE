@@ -1,2 +1,2 @@
-# the-CHASE
-just an animation not a game
+# staticSquare
+A static square made using Matter.js physics engine
